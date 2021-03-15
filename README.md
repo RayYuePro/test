@@ -17,9 +17,7 @@ test
       |Development Activities|C++ core features||Required<sup>[1](#footnote1)</sup>|
       |SDKs, libraries, and frameworks|Windows 10 SDK (10.0.19041.0)||Required<sup>[1](#footnote1)</sup>|      
 
-      Note:
-
-<a name="footnote1">1</a>: This individual component is required by ADFamily and MS-SMBD which have C++ code.
+      Note: <a name="footnote1">1</a>: This individual component is required by ADFamily and MS-SMBD which have C++ code.
 
 1. [Protocol Test Framework v2.1 (build 2.1.0)](https://github.com/Microsoft/ProtocolTestFramework/releases/tag/2.1.0)
 
