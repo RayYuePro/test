@@ -57,7 +57,7 @@
         * [AlternateDataStream_FsControl](#AlternateDataStream_FsControl)
     * [Scenarios for Create and Query Directory](#Scenarios-for-Create-And-Query-Directory)
         * [Query Directory](#Scenario-QueryDirectory)
-    * [Scenarios for File and Directory Leasing](#Scenarios-for-File-And-Directory-Leasing)
+    * [Scenarios for File and Directory Leasing](#Test-cases-for-File-And-Directory-Leasing)
         * [CompareLeaseKeys](#CompareLeaseKeys)
     * [Other Scenarios](#Other-Scenarios)
         * [CreateFile_InvalidStreamName](#Scenario-CreateFile_InvalidStreamName)
@@ -3909,7 +3909,7 @@ There are 343 test cases in total:
 | | Query the created directory with FileIdBothDirectoryInformation|
 | | Verify each entry of the response|
 
-### <a name="Scenarios-for-File-And-Directory-Leasing"/>Scenarios for File and Directory Leasing
+### <a name="Test-cases-for-File-And-Directory-Leasing"/>Test cases for File and Directory Leasing
 
 #### <a name="CompareLeaseKeys"/>Compare Lease Keys
 
