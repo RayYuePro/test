@@ -23,7 +23,7 @@
         * [FileInfo_IsShortNameSupported](#FileInfo_IsShortNameSupported)
         * [FileInfo_FileIdInformationSupported](#FileInfo_FileIdInformationSupported)
         * [FileInfo_FileAccessInformationSupported](#FileInfo_FileAccessInformationSupported)
-        * [FileInfo_Set_FileBasicInformation](#FileInfo_Set_FileBasicInformation)
+        * [FileInfo_SetFileBasicInformationSupported](#FileInfo_SetFileBasicInformationSupported)
         * [FileInfo_CreationTime](#FileInfo_CreationTime)
     * [Scenarios for FileSystemInformation](#Scenarios-for-FileSystemInformation)
         * [FsInfo_FileFsAttributeInformation](#FsInfo_FileFsAttributeInformation)
